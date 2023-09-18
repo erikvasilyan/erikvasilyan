@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Back-end developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently learning Back-end Development and DDD
+- Personal website [link](https://www.erikvasilyan.com)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://x.com)
 
 <br><br>
 
